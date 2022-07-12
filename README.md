@@ -19,7 +19,7 @@ optee_example_cv 20
 throughtput: 0.96 img/s on 20 samples
 ```
 
-### Known problems
+### Known issues
 Won't work on images of ~300KB or larger, or those become larger than this size after processing.
 
 ### Reference
